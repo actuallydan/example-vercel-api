@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "breed": "Husky",
+    "name": "Leonard"
+  },
+
+  {
+    "id": 2,
+    "breed": "Corgi",
+    "name": "Pickle"
+  },
+  {
+    "id": 3,
+    "breed": "Rhodesian Ridgeback",
+    "name": "Gustavo"
+  },
+  {
+    "id": 4,
+    "breed": "Golden Retriever",
+    "name": "Henry"
+  },
+  {
+    "id": 4,
+    "breed": "Chocolate Lab",
+    "name": "Nitro"
+  },
+  {
+    "id": 4,
+    "breed": "Chihuahua",
+    "name": "Humphrey"
+  }
+]
